@@ -1,6 +1,6 @@
 # To-Do List
 
-Ruby on Rails application to manage tasks.
+Ruby on Rails application to manage tasks. -edit by luis to test git workflow
 
 ## Functionality
 
